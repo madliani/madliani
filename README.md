@@ -1,5 +1,5 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabdurakhmanov&show_icons=true&theme=react&bg_color=22272E&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabdurakhmanov&layout=compact&theme=react&bg_color=22272E&langs_count=8)](https://github.com/rabdurakhmanov)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=crystallographer&show_icons=true&theme=react&bg_color=22272E&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystallographer&layout=compact&theme=react&bg_color=22272E&langs_count=8)](https://github.com/crystallographer)
 
 - 👋 Hi, I’m Rakhman Abdurakhmanov!
 - 👀 I’m interested in front-end development and functional programming.
