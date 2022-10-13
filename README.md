@@ -5,4 +5,4 @@
 - 👀 I’m interested in front-end development and functional programming.
 - 🌱 I’m currently learning the computer science.
 - 💞️ I’m looking to collaborate on AI or game.
-- 📫 How to reach me? Send an e-mail (human@mailfence.com)!
+- 📫 How to reach me? Send an e-mail (r0475582@proton.me)!
