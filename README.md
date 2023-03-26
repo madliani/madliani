@@ -1,9 +1,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=crystallographer&show_icons=true&theme=react&bg_color=22272E&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystallographer&layout=compact&theme=react&bg_color=22272E&langs_count=8)](https://github.com/crystallographer)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Built with Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Built with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Built with SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Built with TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 My journey into front-end development began at a hackathon organized by [axmit](https://axmit.com). I participated in it together with a team of other guys. We were in the top three finalists and were invited to work.
 
