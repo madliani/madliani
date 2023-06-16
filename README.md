@@ -12,8 +12,8 @@ My name is Rakhman Abdurakhmanov and I am front-end developer, linux user and ma
 
 My journey into front-end development began at a hackathon organized by [axmit](https://axmit.com). I participated in it together with a team of other guys. We were in the top three finalists and were invited to work.
 
-At axmit I worked on many outsourced projects such as Zelos (https://getzelos.com) and Activatica (https://activatica.org).
+At axmit I worked on many outsourced projects such as `Zelos` (https://getzelos.com) and `Activatica` (https://activatica.org).
 
 After that, I got a job at [inter://so](https://interso.ru/) as the main front-end developer in their startup project.
 
-You can contact me by e-mail <mailto:raho007@proton.me>.
+You can contact me by [e-mail](<mailto:raho007@proton.me>).
