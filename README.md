@@ -16,4 +16,4 @@ At axmit I worked on many outsourced projects such as Zelos (https://getzelos.co
 
 After that, I got a job at [inter://so](https://interso.ru/) as the main front-end developer in their startup project.
 
-You can contact me by e-mail '<mailto:raho007@proton.me>'.
+You can contact me by e-mail `<mailto:raho007@proton.me>`.
