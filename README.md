@@ -9,7 +9,6 @@
 ![Built with styled-components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Built with TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-Hello! My name is Rakhman Abdurakhmanov.
-I am front-end developer, linux user and mathematician.
+Hello! My name is Rakhman Abdurakhmanov and I am front-end developer, Linux user and mathematician.
 
 You can contact me by [e-mail](<mailto:madliani@hotmail.com>).
