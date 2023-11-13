@@ -9,7 +9,7 @@
 ![Built with styled-components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Built with TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-My name is Rakhman Abdurakhmanov and I am front-end developer, linux user and mathematician.
+Hello! My name is Rakhman Abdurakhmanov and I am front-end developer, linux user and mathematician.
 
 My journey into front-end development began at a hackathon organized by [axmit](https://axmit.com). I participated in it together with a team of other guys. We were in the top three finalists and were invited to work.
 
