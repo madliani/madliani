@@ -10,4 +10,4 @@
 
 Hello! My name is Rakhman Abdurakhmanov and I am front-end developer, Linux user and mathematician.
 
-You can contact me by [e-mail](<mailto:madliani@hotmail.com>).
+You can contact me by [e-mail](<mailto:madliani@duck.com>).
