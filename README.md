@@ -14,4 +14,4 @@ I thrive in fast-paced environments where I can use my creativity and technical 
 
 Outside of work, I enjoy exploring new programming approaches through personal projects and contributing to open source communities.
 
-You can contact me by [e-mail](<mailto:madliani@duck.com>).
+You can contact me by [e-mail](<mailto:madliani@hotmail.com>).
