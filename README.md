@@ -2,7 +2,7 @@
 
 [![madliani's GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/madliani)
 
-My name is Rakhman Abdurakhmanov and I'm an front-end developer with over two years of experience, specialising in React and TypeScript. 
+My full name is Rakhman Abdurakhmanov and I'm an front-end developer with over two years of experience, specialising in React and TypeScript. 
 
 Outside of work, I enjoy exploring new programming approaches through personal projects and contributing to open source communities.
 
