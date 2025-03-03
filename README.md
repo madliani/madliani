@@ -2,10 +2,19 @@
 
 [![madliani's GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/madliani)
 
-My name is Rakhman Abdurakhmanov, and I'm a front-end developer. I've been doing this for over two years and specialize in React and TypeScript.
+I am a front-end developer with commercial experience, specialising in React and TypeScript. I am passionate about creating beautiful and user friendly interfaces. My maths background gives me a strong analytical background, which often comes in handy on projects.
 
+Technology Stack:
 
-When I'm not working, I love exploring new ways of programming, working on my own projects, and helping out in open source communities.
+* React,
+* Redux, Redux Thunk and Redux saga
+* TypeScript and JavaScript,
+* SCSS.
+* GNU/Linux, Git, Bash and Docker.
 
+Contacts for communication:
+
+* Telegram: @prime_mathematician,
+* Email: madliani@hotmail.com.
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=madliani&show_icons=true&theme=react&bg_color=22272E&count_private=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madliani&layout=compact&theme=react&bg_color=22272E&langs_count=8)](https://github.com/madliani)
