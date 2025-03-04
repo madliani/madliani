@@ -7,7 +7,7 @@ I am a front-end developer with commercial experience, specialising in React and
 Technology Stack:
 
 * React,
-* Redux, Redux Thunk and Redux saga
+* Redux, Redux Thunk and Redux-Saga
 * TypeScript and JavaScript,
 * SCSS.
 * GNU/Linux, Git, Bash and Docker.
