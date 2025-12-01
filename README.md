@@ -9,7 +9,7 @@ Technology Stack:
 * React,
 * Redux, Redux Thunk and Redux-Saga,
 * TypeScript and JavaScript,
-* SCSS.
+* SCSS,
 * GNU/Linux, Git, Bash and Docker.
 
 Contacts for communication:
