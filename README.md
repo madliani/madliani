@@ -16,9 +16,3 @@ Contacts for communication:
 
 * Telegram: @prime_mathematician,
 * Email: madliani@hotmail.com.
-
-<div align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madliani&layout=compact&theme=react&bg_color=22272E&langs_count=8"/>
-</div>
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=madliani&show_icons=true&theme=react&bg_color=22272E&count_private=true) -->
