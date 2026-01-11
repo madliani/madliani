@@ -14,5 +14,4 @@ Technology Stack:
 
 Contacts for communication:
 
-* Telegram: @pragmaticboy,
-* Email: madliani@hotmail.com.
+* Telegram: @pragmaticboy
