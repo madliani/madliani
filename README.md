@@ -14,4 +14,4 @@ Technology Stack:
 
 Contacts for communication:
 
-- Telegram: @pragmaticboy
+- Telegram: @linguaman
