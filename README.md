@@ -6,11 +6,15 @@ I am a front-end developer with commercial experience, specialising in React and
 
 Technology Stack:
 
-- React,
-- Redux, Redux Thunk and Redux-Saga,
-- TypeScript and JavaScript,
-- SCSS,
-- GNU/Linux, Git, Bash and Docker.
+- Astro
+- Bash
+- Docker and Docker Compose
+- Git
+- GNU/Linux
+- JavaScript and TypeScript
+- Jotai
+- React
+- SCSS
 
 Contacts for communication:
 
